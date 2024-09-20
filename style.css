@@ -87,7 +87,7 @@ body {
   border: 1px solid #222;
   border: 1;
   outline: 1;
-  background: #ddd5c5;
+  background: #b7bc4b;
   border-radius: 50%;
   width: 40px;
   height: 40px;
@@ -130,7 +130,7 @@ body {
   align-items: center;
   justify-content: space-between;
   padding: 1px 20px;
-  background-color: #edd9b0;
+  background-color: #b7bc4b;
   /* background-color: #ffe2b6; */
 
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
@@ -205,8 +205,8 @@ body {
 
 /* Home page start */
 #hero{
-  background-image:url("img/hero4.png") ;
-  height: 100vh;
+  background-image: url("img/portrait-handsome-confident-stylish-hipster-lambersexual-modelman-dressed-green-sweater-jeans-fashion-male-posing-studio-near-blue-wall.jpg");
+  height: 125vh;
   width: 100%;
   cursor: pointer;
   background-position: 25% 0% ;
@@ -1518,4 +1518,3 @@ border-radius: 5px;
  
     
   
-
