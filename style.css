@@ -1539,9 +1539,9 @@ map iframe {
     font-size: 25px
   }
 
-  #product1 h2 {
-    font-size: 30px;
-    color: white;
+  h2 {
+    font-size: 38px;
+
   }
 
   #hero h1 {
