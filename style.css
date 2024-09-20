@@ -1535,6 +1535,9 @@ map iframe {
   h1 {
     font-size: 33px;
   }
+  h2{
+    font-size: 25px
+  }
 
   #hero h2 {
     font-size: 29px;
