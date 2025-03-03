@@ -220,8 +220,8 @@ body {
 
 /* Home page start */
 #hero {
-      background-image: url(img/hero4.png);
-  /* background-image: url("img/portrait-handsome-confident-stylish-hipster-lambersexual-modelman-dressed-green-sweater-jeans-fashion-male-posing-studio-near-blue-wall.jpg"); */
+      /* background-image: url(img/hero4.png); */
+  background-image: url("img/portrait-handsome-confident-stylish-hipster-lambersexual-modelman-dressed-green-sweater-jeans-fashion-male-posing-studio-near-blue-wall.jpg");
   height: 125vh;
   width: 100%;
   cursor: pointer;
